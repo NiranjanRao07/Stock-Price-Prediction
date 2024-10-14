@@ -97,4 +97,3 @@ Niranjan, Ariel
 - [Apache Airflow](https://airflow.apache.org/)
 - [Snowflake](https://snowflake.com/)
 - [Alpha Vantage](https://www.alphavantage.co/)
-```
